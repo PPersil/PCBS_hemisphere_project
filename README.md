@@ -14,3 +14,5 @@ Le code est écrit sous python. Vous aurez besoin d'installer Expyriment.
 Il est séparé en 2 parties :
   * la partie correspondant à l'experience Expyriment,
   * la seconde correspondant à l'affiche d'un diagramme en barre analysant les données obtenues.
+
+L'algorythme peut être trouvé ici : https://github.com/PPersil/PCBS_hemisphere_project/blob/master/Test_de_croisement_hemispherique.py
