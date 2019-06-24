@@ -8,11 +8,11 @@ Le sujet devra ensuite appuyer sur le clavier le plus vite possible à l'apparit
 Ainsi, par exemple, lorsque le sujet perçoit le stimulus de œil gauche, et réagit au stimulus avec la main droit, le signal est resté dans le même "système hémisphérique", et l'action est ainsi cataloguée de "homolatéral".
 
 
-### Algorythme :
+### Algorithme :
 
 Le code est écrit sous python. Vous aurez besoin d'installer Expyriment.
 Il est séparé en 2 parties :
   * la partie correspondant à l'experience Expyriment,
   * la seconde correspondant à l'affiche d'un diagramme en barre analysant les données obtenues.
 
-L'algorythme peut être trouvé ici : https://github.com/PPersil/PCBS_hemisphere_project/blob/master/Test_de_croisement_hemispherique.py
+L'algorithme peut être trouvé ici : [CODE](https://github.com/PPersil/PCBS_hemisphere_project/blob/master/Test_de_croisement_hemispherique.py)
