@@ -10,7 +10,7 @@ Le sujet devra ensuite appuyer sur le clavier le plus vite possible à l'apparit
 
 
 
-Ainsi, par exemple, lorsque le sujet perçoit le stimulus de œil gauche, et réagit au stimulus avec la main droit, le signal est resté dans le même "système hémisphérique", et l'action est ainsi cataloguée de "homolatérale".
+Ainsi, par exemple, lorsque le sujet perçoit le stimulus de œil gauche, et réagit au stimulus avec la main droit, le signal est resté dans le même "système hémisphérique", et l'action est ainsi cataloguée de "homolatéral".
 
 
 ### Algorythme :
