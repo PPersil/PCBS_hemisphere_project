@@ -10,7 +10,7 @@ Ainsi, par exemple, lorsque le sujet perçoit le stimulus de œil gauche, et ré
 
 ## Algorithme :
 
-Le code est écrit sous python. Vous aurez besoin d'installer Expyriment.
+Le code est écrit sous python. Vous aurez besoin d'installer Expyriment et de vous munir d'un foulard (pour masquer un oeil).
 Il est séparé en 2 parties :
   * la partie correspondant à l'experience Expyriment,
   * la seconde correspondant à l'affiche d'un diagramme en barre analysant les données obtenues.
